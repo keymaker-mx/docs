@@ -1,0 +1,6 @@
+[book]
+authors = ["MTRNord"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Keymaker Docs"
