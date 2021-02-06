@@ -10,5 +10,6 @@
     * Other illegal things that are either illegal in the Server location or are in Germany as Keymaker is hosted in Germany.
 5. Ask if you need a new category before adding it to your well-known file.
 6. Do add a proper description
-7. Do add a small set of rules
+7. Do add atleast a small set of rules
 8. Do not use html inside of the well-known json
+9. Do not use a logo that fits in any of the categories listed under 4.
