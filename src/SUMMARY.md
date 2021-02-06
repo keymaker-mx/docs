@@ -1,9 +1,9 @@
 # Summary
 
-- [User Guide]()
+- [User Guide](./users/what-is-keymaker.md)
     - [What is keymaker?](./users/what-is-keymaker.md)
 - [Server admin Guide]()
     - [.Well-Known](./admins/well-known.md)
-    - [Code of Conduct](./admins/code-of-conduct.md)
-- [Developer Guide]()
+    - [Rules](./admins/rules.md)
+- [Developer Guide](./devs/getting-started.md)
     - [Getting started with the API](./devs/getting-started.md)
